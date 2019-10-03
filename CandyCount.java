@@ -9,7 +9,7 @@ public class CandyCount {
            if (money > 0 and price > 0);
                while (money - price >= 0); {
                    candies < candies + 1;
-                   money < money - price); {
+                   money < money - price; {
     } while
     } if
            system.out.printIn("Candies"); {
