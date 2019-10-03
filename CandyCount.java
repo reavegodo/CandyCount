@@ -10,8 +10,8 @@ public class CandyCount {
                while (money - price >= 0); {
                    candies < candies + 1;
                    money < money - price; {
-    } while
-    } if
+    } while {
+    } if {
            system.out.printIn("Candies"); {
     }
            {
